@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\assets\\scripts\\rooms\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rooms\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\assets\\scripts\\rooms\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rooms\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\assets\\scripts\\enemies\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\assets\\scripts\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|c:\\users\\kaan3\\documents\\unityprojects\\platformgame-1\\assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|c:\\users\\kaan3\\documents\\unityprojects\\platformgame-1\\assets\\scripts\\player\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|c:\\users\\kaan3\\documents\\unityprojects\\platformgame-1\\assets\\scripts\\enemies\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120365F0-1106-9705-EB2C-47E228033DF3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemypatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\Health.cs",
+              "ToolTip": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\Health.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:34:49.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Player\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Projectile.cs",
+              "ToolTip": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Player\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:19:00.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Enemies\\EnemyPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyPatrol.cs",
+              "ToolTip": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Enemies\\EnemyPatrol.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyPatrol.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA3wCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:49:25.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "ToolTip": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:29:17.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeleeEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Enemies\\MeleeEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\MeleeEnemy.cs",
+              "ToolTip": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Enemies\\MeleeEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\MeleeEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T12:02:54.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Rooms\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rooms\\Door.cs",
+              "ToolTip": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Rooms\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rooms\\Door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:27:05.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Rooms\\Room.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rooms\\Room.cs",
+              "ToolTip": "C:\\Users\\kaan3\\Documents\\UnityProjects\\PlatformGame-1\\Assets\\Scripts\\Rooms\\Room.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rooms\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T11:19:18.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
